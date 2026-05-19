@@ -26,6 +26,7 @@ dependencies:
 - packaging
 - setuptools>= 75.3.1
 - pytest
-- h5py=3.9.*  # optional; used by some examples
-- matplotlib  # optional; used by some examples
+- hdf5=1.14.2
+- h5py=3.10.0
+- matplotlib
 # see doc-environment.yaml for packages needed to build the documentation
